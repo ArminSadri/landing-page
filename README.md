@@ -1,1 +1,1 @@
-# landing-page
+this is a landing page project from the odin project course. at the end of this project i will learn how to create a clean landing page.
